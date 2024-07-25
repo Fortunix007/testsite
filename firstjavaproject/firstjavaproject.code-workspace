@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/M8AgvY1CRRix17ARS7O_Og_0af444dc92ba40b39bd51ba0052382f1_Starter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "firstjavaproject",
+		"liveServer.settings.port": 5501
+	}
+}
